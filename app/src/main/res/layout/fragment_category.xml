@@ -1,0 +1,18 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context="com.devf.designpatternsproject.CategoryFragment">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/promo_rv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
+        tools:listitem="@layout/item_promo">
+
+    </android.support.v7.widget.RecyclerView>
+
+</RelativeLayout>
