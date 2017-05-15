@@ -1,0 +1,39 @@
+Servicios {
+	nombreServicio : Ortodoncia
+	costo : 5400.00
+	establecimiento : Clinica Odontologia privada Doctor Rojas
+}
+Servicios {
+	nombreServicio : Ortodoncia
+	costo : 90.00
+	establecimiento : Clinica Odontologia Facultad de odontologia Unam
+Servicio {
+	nombreServicio : Blanquemiento dientes
+	costo : 200.00
+	establecimiento : Clinica Odontologia privada Doctor Rojas
+}
+Servicio {
+	nombreServicio : Blanquemiento dientes
+	costo : 80.00
+	establecimiento : Clinica Odontologia Facultad de odontologia Unam
+}
+Servicio {
+	nombreServicio : Cena para 2 personas
+	costo : 200.00
+	establecimiento : Restaurante Bellini
+}
+Servicio {
+	nombreServicio : Cena para 2 personas 
+	costo : 700.00
+	establecimiento : Restaurante La Buena Barra
+}
+Servicio {
+	nombreServicio : Cena para 4 personas
+	costo : 800.00
+	establecimiento : Restaurante Bellini
+}
+Servicio {
+	nombreServicio : Cena para 4 personas
+	costo : 1400.00
+	establecimiento : Restaurante La Buena Barra
+}

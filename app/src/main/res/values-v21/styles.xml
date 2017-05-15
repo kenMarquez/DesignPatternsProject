@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="MyEditTextTheme">
+        <!-- Used for the bottom line when not selected / focused -->
+        <item name="colorControlNormal">@color/colorPrimary</item>
+        <item name="android:colorControlHighlight">@color/colorPrimaryDark</item>
+        <item name="android:colorControlActivated">@color/colorPrimaryDark</item>
+        <!-- colorControlActivated & colorControlHighlight use the colorAccent color by default -->
+    </style>
+</resources>

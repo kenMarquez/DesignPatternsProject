@@ -1,0 +1,42 @@
+Establecimiento {
+	nombre : Clinica Odontologia privada Doctor Rojas
+	direccion : 
+	telefono : (55)5613-1340
+	colonia : 55717
+	horarioServicio : lunes de 10:00 a 23:59,martes de 10:00 a 20:59,miercoles de 00:00 a 23:59,jueves de 10:00 a 23:59,viernes de 10:00 a 20:00,sabado de 12:00 a 15:00
+};
+Establecimiento {
+	nombre : Clinica Odontologia Facultad de odontologia Unam
+	direccion : 
+	telefono : (55)5613-4028
+	colonia : 04360
+	horarioServicio :  lunes de 10:00 a 20:00,martes de 10:00 a 20:00,miercoles de 10:00 a 20:00,jueves de 10:00 a 20:00,viernes de 10:00 a 20:00,sabado de 12:00 a 15:00
+};
+Establecimiento {
+	nombre : Restaurante Bellini
+	direccion :
+	telefono : (55)5813-1340
+	colonia : 09200
+	horarioServicio :  lunes de 10:00 a 20:00,martes de 10:00 a 20:00,miercoles de 10:00 a 20:00,jueves de 10:00 a 20:00,viernes de 10:00 a 20:00,sabado de 12:00 a 15:00
+};
+Establecimiento {
+	nombre : Restaurante La Buena Barra
+	direccion :
+	telefono : (55)5743-3219
+	colonia : 31065
+	horarioServicio :  lunes de 13:00 a 23:59,martes de 13:00 a 23:59,miercoles de 13:00 a 23:59,jueves de 13:00 a 23:59,viernes de 10:00 a 23:59,sabado de 20:00 a 23:59
+};
+Establecimiento {
+	nombre : Restaurante La Mansión (Palmas)
+	direccion : 
+	telefono : 
+	colonia : 62115
+	horarioServicio :  lunes de 10:00 a 20:00,martes de 10:00 a 20:00,miercoles de 10:00 a 20:00,jueves de 10:00 a 20:00,viernes de 10:00 a 20:00,sabado de 08:30 a 21:45
+};
+Establecimiento {
+	nombre : Restaurante Bellini
+	direccion :
+	telefono : (55)5813-1340
+	colonia : 55717
+	horarioServicio :  lunes de 10:00 a 20:00,martes de 10:00 a 20:00,miercoles de 10:00 a 20:00,jueves de 10:00 a 20:00,viernes de 10:00 a 20:00,sabado de 12:00 a 15:00
+};

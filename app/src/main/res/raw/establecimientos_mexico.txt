@@ -1,0 +1,16 @@
+Colonia :55717 {
+	establecimiento : Clinica Odontologia privada Doctor Rojas,
+	establecimiento : Restaurante Bellini
+}
+Colonia :04360 {
+	establecimiento : Clinica odontologia Facultad de odontologia Unam
+}
+Colonia :09200 {
+	establecimiento : Restaurante Bellini
+}
+Colonia :31065 {
+	establecimiento : Restaurante La Buena Barra
+}
+Colonia :62115 {
+	establecimiento : Restaurante La Mansión (Palmas)
+}

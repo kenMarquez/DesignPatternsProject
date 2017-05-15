@@ -1,0 +1,24 @@
+Descuento{
+	categoria : sector salud
+    servicio  : Ortodoncia
+    establecimiento : Clinica Odontologia privada Doctor Rojas
+    descuento : 30
+}
+Descuento{
+	categoria : sector salud
+    servicio  : Blanquemiento dientes
+    establecimiento : Clinica Odontologia privada Doctor Rojas
+    descuento : 30
+}
+Descuento{
+	categoria : sector alimenticio
+    servicio  : Cena para 2 personas
+    establecimiento : Restaurante Bellini
+    descuento : 40
+}
+Descuento{
+	categoria : sector alimenticio
+    servicio  : Cena para 4 personas
+    establecimiento : Restaurante Bellini
+    descuento : 50
+}

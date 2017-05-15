@@ -26,11 +26,10 @@
             android:fitsSystemWindows="true"
             app:layout_collapseMode="pin"
             app:tabContentStart="72dp"
-
-            app:tabGravity="fill"
+            app:tabGravity="center"
             app:tabIndicatorColor="@color/colorAccent"
             app:tabIndicatorHeight="5dp"
-            app:tabMode="fixed"
+            app:tabMode="scrollable"
             app:tabSelectedTextColor="@color/selected_tab_text"
             app:tabTextAppearance="@style/TabTextAppearance" />
 

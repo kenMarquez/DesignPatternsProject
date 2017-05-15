@@ -1,0 +1,18 @@
+DescuentoAdicional{
+	codigoPostal : 55717
+	servicio : Ortodoncia
+	establecimiento : Clinica Odontologia privada Doctor Rojas
+	descuentoadicional : 20
+}
+DescuentoAdicional{
+	codigoPostal : 55717
+	servicio : Cena para 2 personas
+	establecimiento : Restaurante Bellini
+	descuentoadicional : 15
+}
+DescuentoAdicional{
+	codigoPostal : 55717
+	servicio : Cena para 4 personas
+	establecimiento : Restaurante Bellini
+	descuentoadicional : 10
+}

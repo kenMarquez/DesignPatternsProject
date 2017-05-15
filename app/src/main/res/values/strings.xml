@@ -2,8 +2,16 @@
     <string name="app_name">DesignPatternsProject</string>
 
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_blank_fragment">Promos</string>
     <string name="item_promo_text_description">Producto desciripcion qeqweq qweqweqw qweqweqw
         jakslajd lkdasdq eaosqowei njdhelkwejr helwrhkwr hasdhal aljdslhkasldhash
      ahsdahdlkad ahldaslhkdas alhdaklsh</string>
+    <string name="item_promo_text_description_full">Producto desciripcion qeqweq qweqweqw qweqweqw
+        jakslajd lkdasdq eaosqowei njdhelkwejr helwrhkwr hasdhal aljdslhkasldhash
+        jakslajd lkdasdq eaosqowei njdhelkwejr helwrhkwr hasdhal aljdslhkasldhash
+        jakslajd lkdasdq eaosqowei njdhelkwejr helwrhkwr hasdhal aljdslhkasldhash
+        jakslajd lkdasdq eaosqowei njdhelkwejr helwrhkwr hasdhal aljdslhkasldhash
+        jakslajd lkdasdq eaosqowei njdhelkwejr helwrhkwr hasdhal aljdslhkasldhash</string>
+    <string name="dialog_aceptar">Aceptar</string>
+    <string name="dialog_cancelar">Cancelar</string>
 </resources>

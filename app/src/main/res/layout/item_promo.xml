@@ -3,6 +3,7 @@
     xmlns:card_view="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
+    android:layout_marginTop="10dp"
     android:fitsSystemWindows="true"
     android:orientation="vertical"
     android:paddingBottom="1dp">
@@ -20,22 +21,21 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:orientation="vertical"
-            android:padding="7dp">
+            android:orientation="vertical">
 
             <LinearLayout
                 android:layout_width="match_parent"
-                android:layout_height="60dp"
+                android:layout_height="70dp"
                 android:background="#e7e7e7"
                 android:gravity="center_vertical"
                 android:orientation="horizontal"
-                android:padding="7dp">
+                android:padding="8dp">
 
                 <de.hdodenhof.circleimageview.CircleImageView xmlns:app="http://schemas.android.com/apk/res-auto"
                     android:id="@+id/item_promo_image_logo"
                     android:layout_width="60dp"
                     android:layout_height="60dp"
-                    android:padding="6dp"
+                    android:padding="2dp"
                     android:src="@drawable/icon_bb"
                     app:civ_border_color="#00000000"
                     app:civ_border_width="2dp" />
@@ -49,8 +49,7 @@
                     android:paddingLeft="5dp"
                     android:text="Audífonos manos libres"
                     android:textColor="@android:color/black"
-                    android:textSize="15sp"
-                    android:textStyle="bold" />
+                    android:textSize="15sp" />
 
 
                 <TextView
@@ -72,11 +71,12 @@
                 android:id="@+id/item_promo_tv_description"
                 android:layout_width="wrap_content"
                 android:layout_height="100dp"
-                android:layout_margin="10dp"
+                android:layout_marginTop="5dp"
                 android:layout_weight="1"
                 android:maxLines="6"
+                android:padding="8dp"
                 android:text="@string/item_promo_text_description"
-                android:textSize="14sp" />
+                android:textSize="13sp" />
 
         </LinearLayout>
 
@@ -85,7 +85,7 @@
     <TextView
         android:id="@+id/item_forma_blak_space"
         android:layout_width="match_parent"
-        android:layout_height="15dp"
+        android:layout_height="10dp"
         android:layout_marginTop="1dp" />
 
 </LinearLayout>
